@@ -1,10 +1,9 @@
-# Basic SPA
-
-For the steps on how to work with this repository [please see here](https://docs.labs.lambdaschool.com/labs-spa-starter/)
-
 # CoderHeroes
 
-You can find the deployed project at [CoderHeroes](https://a.coderheroes.dev/login).
+You can find the deployed project at [CoderHeroes](https://a.coderheroes.dev/login). You can use these credentials to look around: 
+Username: llama004@maildrop.cc
+Password: Test004Test
+
 
 ## Contributors
 
@@ -24,7 +23,7 @@ You can find the deployed project at [CoderHeroes](https://a.coderheroes.dev/log
 | [<img src="https://avatars.githubusercontent.com/u/9422482?v=4" width = "200" />](https://github.com/mcmillanj)                                | [<img src="https://avatars.githubusercontent.com/u/88951042?v=4" width = "200" />](https://github.com/mark-escosura)                         | [<img src="https://avatars.githubusercontent.com/u/77358128?v=4" width = "200" />](https://github.com/PriscilaMonteiro)                                | [<img src="https://avatars.githubusercontent.com/u/86446941?v=4" width = "200" />](https://github.com/RoseGabriely)                        |
 | [Therman Mcmillan](https://github.com/mcmillanj) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mcmillanj)        | [Mark Escosura](https://github.com/mark-escosura) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mark-escosura) | [Priscila Monteiro](https://github.com/PriscilaMonteiro) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/PriscilaMonteiro) | [Rose Gabriely](https://github.com/RoseGabriely) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/RoseGabriely) |
 | [<img src="https://avatars.githubusercontent.com/u/83845399?v=4" width = "200" />](https://github.com/waylonturbes)                            | [<img src="https://avatars.githubusercontent.com/u/87030206?v=4" width = "200" />](https://github.com/krisf451)                              | [<img src="https://avatars.githubusercontent.com/u/56285755?v=4" width = "200" />](https://github.com/seanmp3)                                         |
-| [Waylon Turbes](https://github.com/waylonturbes) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/waylonturbes)     | [Kristian Fulkerson](https://github.com/krisf451) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/krisf451)      | [Sean Mahan](https://github.com/seanmp3) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/seanmp3)                          |
+| [Waylon Turbes](https://github.com/waylonturbes) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/waylonturbes)     | [Kristian Fulkerson](https://github.com/krisf451) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/krisf451)      | [Sean Mahan](https://github.com/seanmp3) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/seanmp3)                          | [Jessica Williams](https://github.com/jesswillcode) [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/jesswillcode)                          |
 
 <br>
 <br>
@@ -169,4 +168,3 @@ See [Backend Documentation](https://github.com/BloomTech-Labs/coder-heroes-be#re
 - `Utils` directory is for any of the business logic that your application may need to use.
 - Simple one-off _helper_ functions that you may need can be defined in this directory.
 - Any reusable logic or handlers or config files can also be used here.
-- **REMINDER do not** check any sensitive information into git
